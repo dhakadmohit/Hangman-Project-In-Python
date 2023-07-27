@@ -1,5 +1,3 @@
-#Step 1 
-word_list = ["aardvark", "baboon", "camel","manisha","yashwant"]
 new_list = []
 stages = ['''
   +---+
